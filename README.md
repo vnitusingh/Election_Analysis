@@ -33,7 +33,7 @@ The analysis of the election show that:
 
 ## Election-Audit Summary:
 The script already is designed to scale to any number of ballots or more candidates and counties. 
-However, there is a scopr for improvement in the script. I would recommend following changes to the script:
+However, there is a scope for improvement in the script. I would recommend following changes to the script:
 
 - *Determine winner for each county:* In addition to determining which candidate won among all counties, I think it would also be helpful to determine how each candidate performed in every county.
 - *User Inputs election data file:* Right now the data file for election is hard coded. In order to extend this script for any election, we can modify the script to accept the data file as user input.
